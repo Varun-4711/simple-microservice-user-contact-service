@@ -37,4 +37,4 @@ To get started with the project, follow these steps:
 5. Start the Hystrix Dashboard.
 6. Access the microservices through the API Gateway or directly, based on your requirements.
 
-Note: Please refer to the specific README files of each service for detailed instructions on how to build, configure, and run them.
+
