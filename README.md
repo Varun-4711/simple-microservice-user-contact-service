@@ -30,7 +30,7 @@ The Hystrix Dashboard provides a graphical interface for monitoring and visualiz
 
 To get started with the project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/your-repo.git`
+1. Clone the repository: `git clone https://github.com/Varun-4711/simple-microservice-user-contact-service.git`
 2. Install the required dependencies for each service.
 3. Start the Eureka Registry Service.
 4. Start the User Service, Contact Service, and API Gateway, ensuring that they register with the Eureka Registry Service.
